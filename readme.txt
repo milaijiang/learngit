@@ -1,2 +1,2 @@
-Git is varison contol system.
+Git is ditributed varison contol system.
 Git is free software.
