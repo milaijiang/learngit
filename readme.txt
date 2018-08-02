@@ -1,4 +1,4 @@
 Git is ditributed varison contol system.
 Git is free software.
 Git has a mutable index called stage.
-Git track change.
+Git track change of files.
