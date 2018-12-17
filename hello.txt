@@ -1,3 +1,6 @@
 Git is ditributed varison contol system
 Git is so good
 Git is nice
+Git is so far so good
+Git is branch
+
