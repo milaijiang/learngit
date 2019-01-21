@@ -3,3 +3,4 @@ Git is so good
 Git is so far so good
 Git is branch
 Git is so far so good
+Git is hard to study
