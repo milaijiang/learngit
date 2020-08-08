@@ -8,3 +8,4 @@ Git is hard to study
 Git is that girl
 Git is a dog
 Git is a good editor
+Git is a new editor
